@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class target_find {
+public class target_find { 
     public static void main (String [] args ){
         int[] arr={12,3,4,56,7,8,90,87,45,77,89,43,55,66};
         System.out.println("Enter the target");
